@@ -9,6 +9,6 @@ I created **[AI-Powered CRM](https://github.com/abhilash2124/ai-crm-hcp)**, an i
 I'm normally doing things around APIs, database architecture, and AI agents.
 
 You can find me on:
-* **My website:** [abhilash2124.github.io/portfolio_](https://abhilash2124.github.io/portfolio_)
+* **My website:** [abhilash2124.github.io/portfolio_](https://abhilash2124.github.io/portfolio)
 * **LinkedIn:** [in/abhilash-addagatla](https://linkedin.com/in/abhilash-addagatla)
 * **Email:** [abhilashaddagatla86@gmail.com](mailto:abhilashaddagatla86@gmail.com)
